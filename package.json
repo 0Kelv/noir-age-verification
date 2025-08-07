@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@aztec/bb.js": "0.87.0",
+    "@noir-lang/noir_js": "1.0.0-beta.9"
+  },
+  "devDependencies": {
+    "vite": "^7.1.0"
+  }
+}
